@@ -1,4 +1,4 @@
-This repo contains all my original music, as well as music I have transcribed or arranged. I hope to have Musescore files, pdfs, and audios available for you to download and use. Please tell me if you do!
+This repo contains all my original music, as well as music I have transcribed or arranged. The Musescore files are available for you to download and use. Please tell me if you do!
 
 ## Original Compositions
 | Song | Audio | Musescore file | Notes
@@ -11,7 +11,7 @@ This repo contains all my original music, as well as music I have transcribed or
 These pieces were transcribed as faithfully as possible.
 | Song | Audio | Musescore file |
 | ------------- | ------------- | ------------- |
-| "DC02 Duel Themes" from _Yu-Gi-Oh! Master Duel_ | [YouTube reference](https://www.youtube.com/watch?v=QMAEoQB4pXI) | in progress |
+| "DC02 Duel Themes" from _Yu-Gi-Oh! Master Duel_ | [YouTube reference](https://www.youtube.com/watch?v=QMAEoQB4pXI) | [in progress] |
 | "Sydney Sprint" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=drjOp2o6esg), [sydney sprint.ogg](sydney%20sprint.ogg) | [sydney sprint.mscz](sydney%20sprint.mscz) |
 | "Good Results" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=q5_VHgloQwQ), [good results.ogg](good%20results.ogg) | [good results.mscz](good%20results.mscz) |
 | "Deep Stone Lullaby" from _Destiny 2_ | [YouTube reference](https://www.youtube.com/watch?v=qBIJFTPPp-8), [deep stone lullaby.ogg](deep%20stone%20lullaby.ogg) | [deep stone lullaby.mscz](deep%20stone%20lullaby.mscz) |
@@ -22,9 +22,9 @@ These pieces were transcribed as faithfully as possible.
 These pieces were interpreted and arranged, not just transcribed.
 | Song | Audio | Musescore file | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| "Alpha" from _Minecraft_ | [YouTube reference](https://www.youtube.com/watch?v=uNCGM7FJ8wQ) | in progress | Shortened from 10 min to 7 min |
+| "Alpha" from _Minecraft_ | [YouTube reference](https://www.youtube.com/watch?v=uNCGM7FJ8wQ) | [in progress] | Shortened from 10 min to 7 min |
 | _Super Mario Galaxy_ Medley | [super mario galaxy.mp3](super%20mario%20galaxy.mp3) | [super mario galaxy.mscz](super%20mario%20galaxy.mscz) | Medley of the following pieces: <br> ["Staff Roll"](https://www.youtube.com/watch?v=VeCVNRRBxEo) from _Super Mario Galaxy 1_ <br> ["Rosalina's Comet Observatory"](https://www.youtube.com/watch?v=AImuGOyEM6g) <br> ["Bowser's Galaxy Generator"](https://www.youtube.com/watch?v=9zBawgVbOaA) <br> ["Gusty Garden Galaxy"](https://www.youtube.com/watch?v=y6rZkej57cU) <br> ["Staff Credits"](https://www.youtube.com/watch?v=VWmtUJxdcW8) from _Super Mario Galaxy 2_
-| "I Am Gonna Claw (Out Your Eyes, Then Drown You To Death)" from _Hades II_ | [YouTube reference](https://www.youtube.com/watch?v=cQFEcBIf8z0) | in progress | Added two more vocal parts |
+| "I Am Gonna Claw (Out Your Eyes, Then Drown You To Death)" from _Hades II_ | [YouTube reference](https://www.youtube.com/watch?v=cQFEcBIf8z0), [claw.ogg](claw.ogg) | [claw.mscz](claw.mscz) | Added two more vocal parts |
 
 # License
 Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
