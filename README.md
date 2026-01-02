@@ -1,10 +1,11 @@
-# Radish's music
 This repo contains all my original music, as well as music I have transcribed or arranged. I hope to have Musescore files, pdfs, and audios available for you to download and use. Please tell me if you do!
 
 ## Original compositions
-- [eden](https://soundcloud.com/radish-the-radish/eden) (v3.2)
-- [night swimming](https://soundcloud.com/radish-the-radish/night-swimming) (v8)
-- when the peasants learn to count to five (v3)
+| Song | Audio | Musescore file | Sheet music |
+| ------------- | ------------- | ----- | --- |
+| eden | [SoundCloud](https://soundcloud.com/radish-the-radish/eden), [eden.ogg](eden%20v3.2.ogg) | [eden.mscz](eden%20v3.3.mscz)  | Not uploaded yet |
+| night swimming | [SoundCloud](https://soundcloud.com/radish-the-radish/night-swimming), [night swimming.flac](night%20swimming%20v8%20simplified.flac) | [night swimming.mscz](night%20swimming%20v8%20simplified.mscz)  | Not uploaded yet |
+| when the peasants learn to count to 5 | [peasants.ogg](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.ogg) | [peasants.mscz](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.mscz)  | Not uploaded yet |
 
 ## Transcriptions
 These pieces were transcribed as faithfully as possible.
