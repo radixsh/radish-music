@@ -1,32 +1,30 @@
 This repo contains all my original music, as well as music I have transcribed or arranged. I hope to have Musescore files, pdfs, and audios available for you to download and use. Please tell me if you do!
 
-## Original compositions
-| Song | Audio | Musescore file | Sheet music |
-| ------------- | ------------- | ----- | --- |
-| eden | [SoundCloud](https://soundcloud.com/radish-the-radish/eden), [eden.ogg](eden%20v3.2.ogg) | [eden.mscz](eden%20v3.3.mscz)  | Not uploaded yet |
-| night swimming | [SoundCloud](https://soundcloud.com/radish-the-radish/night-swimming), [night swimming.flac](night%20swimming%20v8%20simplified.flac) | [night swimming.mscz](night%20swimming%20v8%20simplified.mscz)  | Not uploaded yet |
-| when the peasants learn to count to 5 | [peasants.ogg](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.ogg) | [peasants.mscz](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.mscz)  | Not uploaded yet |
+## Original Compositions
+| Song | Audio | Musescore file | Notes
+| ------------- | ------------- | ------------- | ------------- |
+| eden | [SoundCloud](https://soundcloud.com/radish-the-radish/eden), [eden.ogg](eden%20v3.2.ogg) | [eden.mscz](eden%20v3.3.mscz) | Inspired by a meaningless poem I wrote in May 2019
+| night swimming | [SoundCloud](https://soundcloud.com/radish-the-radish/night-swimming), [night swimming.flac](night%20swimming%20v8%20simplified.flac) | [night swimming.mscz](night%20swimming%20v8%20simplified.mscz) | Inspired by prose written by my friend R |
+| when the peasants learn to count to 5 | [peasants.ogg](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.ogg) | [peasants.mscz](when%20the%20peasants%20learn%20to%20count%20to%205%20v3.mscz) | A funny song in 5/4
 
 ## Transcriptions
 These pieces were transcribed as faithfully as possible.
-- _Yu-Gi-Oh! Master Duel_: ["DC02 Duel Themes"](https://www.youtube.com/watch?v=QMAEoQB4pXI), including "Normal Theme", "Keycard Theme", and "Climax Theme"
-- _Prince of Persia_: ["Healing Grounds"](https://www.youtube.com/watch?v=pTcfsSxmJso)
-- _Mario Kart 8_ Medley, including:
-  - ["Sydney Sprint"](https://www.youtube.com/watch?v=drjOp2o6esg)
-  - ["Good Results"](https://www.youtube.com/watch?v=q5_VHgloQwQ)
-- _Destiny 2_: ["Deep Stone Lullaby"](https://www.youtube.com/watch?v=qBIJFTPPp-8)
-- _League of Legends_: ["Orchestrated Chaos"](https://www.youtube.com/watch?v=hqLTHUXs-WA)
+| Song | Audio | Musescore file |
+| ------------- | ------------- | ------------- |
+| "DC02 Duel Themes" from _Yu-Gi-Oh! Master Duel_ | [YouTube reference](https://www.youtube.com/watch?v=QMAEoQB4pXI) | in progress |
+| "Sydney Sprint" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=drjOp2o6esg), [sydney sprint.ogg](sydney%20sprint.ogg) | [sydney sprint.mscz](sydney%20sprint.mscz) |
+| "Good Results" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=q5_VHgloQwQ), [good results.ogg](good%20results.ogg) | [good results.mscz](good%20results.mscz) |
+| "Deep Stone Lullaby" from _Destiny 2_ | [YouTube reference](https://www.youtube.com/watch?v=qBIJFTPPp-8), [deep stone lullaby.ogg](deep%20stone%20lullaby.ogg) | [deep stone lullaby.mscz](deep%20stone%20lullaby.mscz) |
+| "Orchestrated Chaos" from _League of Legends_ | [YouTube reference ](https://www.youtube.com/watch?v=hqLTHUXs-WA), [orchestrated chaos.ogg](orchestrated%20chaos.ogg) | [orchestrated chaos.mscz](orchestrated%20chaos.mscz) |
+| "Healing Grounds" from _Prince of Persia_ | [YouTube reference](https://www.youtube.com/watch?v=pTcfsSxmJso), [healing grounds.ogg](healing%20grounds.ogg) | [healing grounds.mscz](healing%20grounds.mscz) |
 
 ## Arrangements
 These pieces were interpreted and arranged, not just transcribed.
-- _Minecraft_: ["Alpha"](https://www.youtube.com/watch?v=uNCGM7FJ8wQ)
-- Super Mario Galaxy Medley, including:
-  - ["Staff Roll"](https://www.youtube.com/watch?v=VeCVNRRBxEo) from _Super Mario Galaxy 1_
-  - ["Rosalina's Comet Observatory"](https://www.youtube.com/watch?v=AImuGOyEM6g)
-  - ["Bowser's Galaxy Generator"](https://www.youtube.com/watch?v=9zBawgVbOaA)
-  - ["Gusty Garden Galaxy"](https://www.youtube.com/watch?v=y6rZkej57cU)
-  - ["Staff Credits"](https://www.youtube.com/watch?v=VWmtUJxdcW8) from _Super Mario Galaxy 2_
-- _Hades II_: ["I Am Gonna Claw (Out Your Eyes, Then Drown You To Death)"](https://www.youtube.com/watch?v=cQFEcBIf8z0)
+| Song | Audio | Musescore file | Notes
+| ------------- | ------------- | ------------- | ------------- |
+| "Alpha" from _Minecraft_ | [YouTube reference](https://www.youtube.com/watch?v=uNCGM7FJ8wQ) | in progress | Shortened from 10 min to 7 min |
+| _Super Mario Galaxy_ Medley | [super mario galaxy.mp3](super%20mario%20galaxy.mp3) | [super mario galaxy.mscz](super%20mario%20galaxy.mscz) | Medley of the following pieces: <br> ["Staff Roll"](https://www.youtube.com/watch?v=VeCVNRRBxEo) from _Super Mario Galaxy 1_ <br> ["Rosalina's Comet Observatory"](https://www.youtube.com/watch?v=AImuGOyEM6g) <br> ["Bowser's Galaxy Generator"](https://www.youtube.com/watch?v=9zBawgVbOaA) <br> ["Gusty Garden Galaxy"](https://www.youtube.com/watch?v=y6rZkej57cU) <br> ["Staff Credits"](https://www.youtube.com/watch?v=VWmtUJxdcW8) from _Super Mario Galaxy 2_
+| "I Am Gonna Claw (Out Your Eyes, Then Drown You To Death)" from _Hades II_ | [YouTube reference](https://www.youtube.com/watch?v=cQFEcBIf8z0) | in progress | Added two more vocal parts |
 
 # License
 Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
