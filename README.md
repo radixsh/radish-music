@@ -20,9 +20,9 @@ These pieces were transcribed as faithfully as possible.
 | Song | Audio | PDF | Musescore file |
 | ------------- | ------------- | ------------- | ------------- |
 | "DC02 Duel Themes" from _Yu-Gi-Oh! Master Duel_ | [YouTube reference](https://www.youtube.com/watch?v=QMAEoQB4pXI), [yugioh.ogg](yugioh.ogg) | [yugioh.pdf](yugioh.pdf) | [yugioh.mscz](yugioh.mscz) |
-| "Sydney Sprint" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=drjOp2o6esg), [sydney sprint.ogg](sydney%20sprint.ogg) | [sydney sprint](sydney%20sprint.pdf) | [sydney sprint.mscz](sydney%20sprint.mscz) |
+| "Sydney Sprint" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=drjOp2o6esg), [sydney sprint.ogg](sydney%20sprint.ogg) | [sydney sprint.pdf](sydney%20sprint.pdf) | [sydney sprint.mscz](sydney%20sprint.mscz) |
 | "Good Results" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=q5_VHgloQwQ), [good results.ogg](good%20results.ogg) | [good results.pdf](good%20results.pdf) | [good results.mscz](good%20results.mscz) |
-| "Deep Stone Lullaby" from _Destiny 2_ | [YouTube reference](https://www.youtube.com/watch?v=qBIJFTPPp-8), [deep stone lullaby.ogg](deep%20stone%20lullaby.ogg) | [deep stone lullaby](deep%20stone%20lullaby.pdf)| [deep stone lullaby.mscz](deep%20stone%20lullaby.mscz) |
+| "Deep Stone Lullaby" from _Destiny 2_ | [YouTube reference](https://www.youtube.com/watch?v=qBIJFTPPp-8), [deep stone lullaby.ogg](deep%20stone%20lullaby.ogg) | [deep stone lullaby.pdf](deep%20stone%20lullaby.pdf)| [deep stone lullaby.mscz](deep%20stone%20lullaby.mscz) |
 | "Orchestrated Chaos" from _League of Legends_ | [YouTube reference](https://www.youtube.com/watch?v=hqLTHUXs-WA), [orchestrated chaos.ogg](orchestrated%20chaos.ogg) | [orchestrated chaos.pdf](orchestrated%20chaos.pdf) | [orchestrated chaos.mscz](orchestrated%20chaos.mscz) |
 | "Healing Ground" from _Prince of Persia_ | [YouTube reference](https://www.youtube.com/watch?v=pTcfsSxmJso), [healing ground.ogg](healing%20ground.ogg) | [healing ground.pdf](healing%20ground.pdf) | [healing ground.mscz](healing%20ground.mscz) |
 
