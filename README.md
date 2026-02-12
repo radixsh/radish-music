@@ -1,30 +1,32 @@
 This repo contains all my original music, as well as music I have transcribed or arranged. The Musescore files are available for you to download and use. Please tell me if you do!
 
 ## Original Compositions
-| Song | Audio | PDF | Musescore file | Notes
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| eden | [SoundCloud](https://soundcloud.com/radish-the-radish/eden), [eden.ogg](eden.ogg) | [eden.pdf](eden.pdf) | [eden.mscz](eden.mscz) | Inspired by a meaningless poem I wrote in May 2019
-| night swimming | [SoundCloud](https://soundcloud.com/radish-the-radish/night-swimming), [night swimming.flac](night%20swimming.flac) | [night swimming.pdf](night%20swimming.pdf) | [night swimming.mscz](night%20swimming.mscz) | Inspired by prose written by my friend R |
-| when the peasants learn to count to 5 | [peasants.ogg](peasants.ogg) | [peasants.pdf](peasants.pdf) | [peasants.mscz](peasants.mscz) | A funny song in 5/4
+| Song | PDF | Musescore file | Notes
+| ------------- | ------------- | ------------- | ------------- |
+| [eden](/compositions/eden.ogg) | [eden.pdf](/compositions/eden/eden.pdf) | [eden.mscz](/compositions/eden/eden.mscz) | Inspired by a meaningless poem I wrote in May 2019.<br> Posted on [SoundCloud](https://soundcloud.com/radish-the-radish/eden).
+| [night swimming](/compositions/night%20swimming/night%20swimming.flac) | [night swimming.pdf](/compositions/night%20swimming/night%20swimming.pdf) | [night swimming.mscz](/compositions/night%20swimming/night%20swimming.mscz) | Inspired by [prose](https://ambivertstreasurebox.blogspot.com/2021/10/night-swimming.html) written by my friend Robin.<br> Posted on [SoundCloud](https://soundcloud.com/radish-the-radish/night-swimming). |
+| [when the peasants learn to count to 5](/compositions/peasants/peasants.ogg) | [peasants.pdf](/compositions/peasants/peasants.pdf) | [peasants.mscz](/compositions/peasants/peasants.mscz) | A funny song in 5/4.
 
 ## Arrangements
 These pieces were interpreted and arranged.
-| Song | Audio | PDF | Musescore file | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| "Alpha" from _Minecraft_ | [YouTube reference](https://www.youtube.com/watch?v=uNCGM7FJ8wQ) | _[in progress]_ | _[in progress]_ | Shortened from 10 min to 7 min |
-| _Super Mario Galaxy_ Medley | [super mario galaxy.mp3](super%20mario%20galaxy.mp3) | [super mario galaxy.pdf](super%20mario%20galaxy.pdf) | [super mario galaxy.mscz](super%20mario%20galaxy.mscz) | Medley of the following pieces: <br> ["Staff Roll"](https://www.youtube.com/watch?v=VeCVNRRBxEo) from _Super Mario Galaxy 1_ <br> ["Rosalina's Comet Observatory"](https://www.youtube.com/watch?v=AImuGOyEM6g) <br> ["Bowser's Galaxy Generator"](https://www.youtube.com/watch?v=9zBawgVbOaA) <br> ["Gusty Garden Galaxy"](https://www.youtube.com/watch?v=y6rZkej57cU) <br> ["Staff Credits"](https://www.youtube.com/watch?v=VWmtUJxdcW8) from _Super Mario Galaxy 2_
-| "I Am Gonna Claw (Out Your Eyes, Then Drown You To Death)" from _Hades II_ | [YouTube reference](https://www.youtube.com/watch?v=cQFEcBIf8z0), [claw.ogg](claw.ogg) | [claw.pdf](claw.pdf) | [claw.mscz](claw.mscz) | Added two more vocal parts |
+| Song  | PDF | Musescore file | Notes |
+| ------------- | ------------- | ------------- | ------------- |
+| "Alpha" from _Minecraft_ | _[in progress]_ | _[in progress]_ | Shortened from 10 min to 7 min |
+| [_Super Mario Galaxy_ Medley](/arrangements/super%20mario%20galaxy/super%20mario%20galaxy.mp3) | [super mario galaxy.pdf](/arrangements/super%20mario%20galaxy/super%20mario%20galaxy.pdf) | [super mario galaxy.mscz](/arrangements/super%20mario%20galaxy/super%20mario%20galaxy.mscz) | Medley of the following pieces: <br> ["Staff Roll"](https://www.youtube.com/watch?v=VeCVNRRBxEo) from _Super Mario Galaxy 1_ <br> ["Rosalina's Comet Observatory"](https://www.youtube.com/watch?v=AImuGOyEM6g) <br> ["Bowser's Galaxy Generator"](https://www.youtube.com/watch?v=9zBawgVbOaA) <br> ["Gusty Garden Galaxy"](https://www.youtube.com/watch?v=y6rZkej57cU) <br> ["Staff Credits"](https://www.youtube.com/watch?v=VWmtUJxdcW8) from _Super Mario Galaxy 2_ |
+| ["I Am Gonna Claw (Out Your Eyes, <br>Then Drown You To Death)"](/arrangements/claw/claw.ogg) from _Hades II_ | [claw.pdf](claw.pdf) | [claw.mscz](claw.mscz) | Added two more vocal parts |
+
+
 
 ## Transcriptions
 These pieces were transcribed as faithfully as possible.
-| Song | Audio | PDF | Musescore file |
-| ------------- | ------------- | ------------- | ------------- |
-| "DC02 Duel Themes" from _Yu-Gi-Oh! Master Duel_ | [YouTube reference](https://www.youtube.com/watch?v=QMAEoQB4pXI), [yugioh.ogg](yugioh.ogg) | [yugioh.pdf](yugioh.pdf) | [yugioh.mscz](yugioh.mscz) |
-| "Sydney Sprint" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=drjOp2o6esg), [sydney sprint.ogg](sydney%20sprint.ogg) | [sydney sprint.pdf](sydney%20sprint.pdf) | [sydney sprint.mscz](sydney%20sprint.mscz) |
-| "Good Results" from _Mario Kart 8_ | [YouTube reference](https://www.youtube.com/watch?v=q5_VHgloQwQ), [good results.ogg](good%20results.ogg) | [good results.pdf](good%20results.pdf) | [good results.mscz](good%20results.mscz) |
-| "Deep Stone Lullaby" from _Destiny 2_ | [YouTube reference](https://www.youtube.com/watch?v=qBIJFTPPp-8), [deep stone lullaby.ogg](deep%20stone%20lullaby.ogg) | [deep stone lullaby.pdf](deep%20stone%20lullaby.pdf)| [deep stone lullaby.mscz](deep%20stone%20lullaby.mscz) |
-| "Orchestrated Chaos" from _League of Legends_ | [YouTube reference](https://www.youtube.com/watch?v=hqLTHUXs-WA), [orchestrated chaos.ogg](orchestrated%20chaos.ogg) | [orchestrated chaos.pdf](orchestrated%20chaos.pdf) | [orchestrated chaos.mscz](orchestrated%20chaos.mscz) |
-| "Healing Ground" from _Prince of Persia_ | [YouTube reference](https://www.youtube.com/watch?v=pTcfsSxmJso), [healing ground.ogg](healing%20ground.ogg) | [healing ground.pdf](healing%20ground.pdf) | [healing ground.mscz](healing%20ground.mscz) |
+| Song | PDF | Musescore file |
+| ------------- | ------------- | ------------- |
+| ["DC02 Duel Themes"](/arrangements/yugioh/yugioh.ogg) from _Yu-Gi-Oh! Master Duel_ | [yugioh.pdf](/arrangements/yugioh/yugioh.pdf) | [yugioh.mscz](/arrangements/yugioh/yugioh.mscz) |
+| ["Sydney Sprint"](/arrangements/sydney%20sprint/sydney%20sprint.ogg) from _Mario Kart 8_ | [sydney sprint.pdf](/arrangements/sydney%20sprint/sydney%20sprint.pdf) | [sydney sprint.mscz](/arrangements/sydney%20sprint/sydney%20sprint.mscz) |
+| ["Good Results"](/arrangements/good%20results/good%20results.ogg) from _Mario Kart 8_ | [good results.pdf](/arrangements/good%20results/good%20results.pdf) | [good results.mscz](/arrangements/good%20results/good%20results.mscz) |
+| ["Deep Stone Lullaby"](/arrangements/deep%20stone%20lullaby/deep%20stone%20lullaby.ogg) from _Destiny 2_ | [deep stone lullaby.pdf](/arrangements/deep%20stone%20lullaby/deep%20stone%20lullaby.pdf)| [deep stone lullaby.mscz](/arrangements/deep%20stone%20lullaby/deep%20stone%20lullaby.mscz) |
+| ["Orchestrated Chaos"](/arrangements/orchestrated%20chaos/orchestrated%20chaos.ogg) from _League of Legends_ | [orchestrated chaos.pdf](/arrangements/orchestrated%20chaos/orchestrated%20chaos.pdf) | [orchestrated chaos.mscz](/arrangements/orchestrated%20chaos/orchestrated%20chaos.mscz) |
+| ["Healing Ground"](/arrangements/healing%20ground/healing%20ground.ogg) from _Prince of Persia_ | [healing ground.pdf](/arrangements/healing%20ground/healing%20ground.pdf) | [healing ground.mscz](/arrangements/healing%20ground/healing%20ground.mscz) |
 
 # License
 Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
